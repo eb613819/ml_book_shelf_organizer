@@ -1,122 +1,122 @@
-title,author,quantity,series,english,genre_religion,genre_philosophy,genre_teaching,genre_fantasy,genre_classical,genre_poem,genre_fiction,genre_science_fiction,genre_nonfiction,genre_thriller,genre_mystery,genre_mythology,genre_tattoo,genre_art,genre_young_adult,genre_language,genre_games,genre_illustrated,genre_romance,genre_gothic,genre_horror
-Holy Bible,Misc,1,Holy Bible,yes,yes,yes,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-Atomic Habits,James Clear,1,Atomic Habits,yes,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-Cheating Lessons,James M. Lang,1,Cheating Lessons,yes,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-Make it Stick,"Henry L. Roediger III,Mark A. McDaniel,and Peter C. Brown",1,Make it Stick,yes,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-Beyond Good and Evil,Friedrich Nietzsche,1,Beyond Good and Evil,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-Meditations,Marcus Aurelius,1,Meditations,yes,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-Indian Myths,Jake Jakcson,1,Indian Myths,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no
-Introduction to St. Thomas Aquinas,"Thomas Aquinas,edited by Anton C. Pegis",1,Introduction to St. Thomas Aquinas,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-The Philosophy of Kant,"Immanuel Kant,edited by Carl J. Friedrich",1,The Philosophy of Kant,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-The Graduate's Handbook,Dr. Clark Gaither,1,The Graduate's Handbook,yes,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-Atlas Shrugged,Ayn Rand,1,Atlas Shrugged,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no
-The Fountainhead,Ayn Rand,1,The Fountainhead,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no
-Anthem,Ayn Rand,1,Anthem,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no
-Mythology,Edith Hamilton,1,Mythology,yes,no,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no
-Don Quixote De La Mancha,Miguel de Cervantes,2,Don Quixote De La Mancha,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no
-Jules Verne: Seven Novels,Jules Verne,1,Jules Verne: Seven Novels,yes,no,no,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
-The Outsiders,S. E. Hinton,1,The Outsiders,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Tom Sawyer,Mark Twain,1,Tom Sawyer,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-The Time Machine,H.G. Wells,1,The Time Machine,yes,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
-Frankenstein,Mary Shelley,1,Frankenstein,yes,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,yes
-Macabre Stories,H.P. Lovecraft,1,Lovecraft Collection,yes,no,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,yes
-The Randolph Carter Tales,H.P. Lovecraft,1,Lovecraft Collection,yes,no,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,yes
-Stories of the Dreamlands,H.P. Lovecraft,1,Lovecraft Collection,yes,no,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,yes
-At the Mountains of Madness,H.P. Lovecraft,1,Lovecraft Collection,yes,no,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,yes
-The Call of Cthulu,H.P. Lovecraft,1,Lovecraft Collection,yes,no,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,yes
-The Dunwich Horror,H.P. Lovecraft,1,Lovecraft Collection,yes,no,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,yes
-The Awakening,Kate Chopin,1,The Awakening,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no
-Bioshock Rapture,John Shirley,1,Bioshock Rapture,yes,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no
-Ender's Game,Orson Scott Card,1,Ender's Game,yes,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no
-Dune,Frank Herbert,1,Dune,yes,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
-Dune Messiah,Frank Herbert,1,Dune,yes,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
-The Giver,Lois Lowry,1,The Giver,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Eragon,Christopher Paolini,1,Eragon,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Eldest,Christopher Paolini,1,Eragon,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Brisingr,Christopher Paolini,1,Eragon,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Inheritance,Christopher Paolini,1,Eragon,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Harry Potter and the Sorcerer's Stone,J.K. Rowling,3,Harry Potter,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Harry Potter and the Chamber of Secrets,J.K. Rowling,2,Harry Potter,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Harry Potter and the Prisoner of Azkaban,J.K. Rowling,2,Harry Potter,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Harry Potter and the Goblet of Fire,J.K. Rowling,3,Harry Potter,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Harry Potter and the Order of the Pheonix,J.K. Rowling,2,Harry Potter,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Harry Potter and Half-Blood Prince,J.K. Rowling,1,Harry Potter,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Harry Potter and the Deathly Hallows,J.K. Rowling,2,Harry Potter,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Harry Potter and History,Nancy R. Reagin,1,Harry Potter,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no
-The Beetle and the Bard,J.K. Rowling,1,Harry Potter,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-The Chronicles of Narnia: The Magician's Nephew,C.S. Lewis,1,Narnia,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",C.S. Lewis,1,Narnia,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-The Chronicles of Narnia: The Horse and his Boy,C.S. Lewis,1,Narnia,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-The Chronicles of Narnia: Prince Caspian,C.S. Lewis,1,Narnia,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-The Chronicles of Narnia: The Voyage of the Dawn Treader,C.S. Lewis,1,Narnia,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-The Chronicles of Narnia: The Silver Chair,C.S. Lewis,1,Narnia,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-The Chronicles of Narnia: The Last Battle,C.S. Lewis,1,Narnia,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Holidays on Ice,David Sedaris,1,Holidays on Ice,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-Skeleton Crew,Stephen King,1,Skeleton Crew,yes,no,no,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes
-The Mystery of the Pale King,Sam Flynn,1,The Mystery of the Pale King,yes,no,no,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes
-Revival,Stephen King,1,Revival,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes
-The Chronicles of Vladimir Todd: Ninth Grade Slays,Heather Brewer,1,Vladimir Todd,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Lights Out,Navessa Allen,1,Lights Out,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no
-Nightmares and Dreamscapes,Stephen King,1,Nightmares and Dreamscapes,yes,no,no,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes
-Berserk Volume 1 Deluxe Edition,Kentaro Miura,1,Berserk,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes
-Batman Earth One Volume Two,"Jones,Frank,Sibal,Anderson",1,Batman,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no
-Yes Please,Amy Poehler,1,Yes Please,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-She's Come Undone,Wally Lamb,1,She's Come Undone,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no
-Scarecrow Returns,Matthew Reilly,1,Scarecrow Returns,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no
-Dark Celebration,Christine Feehan,1,Dark Celebration,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no
-Blue Dahlia,Nora Roberts,1,Blue Dahlia,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no
-The Strange Fascinations of Noah Hypnotik,David Arnold,1,The Strange Fascinations of Noah Hypnotik,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Fargo Rock City,Chuck Klosterman,1,Fargo Rock City,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-Dating Game,Danielle Steel,1,Dating Game,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no
-The Official Rules of Chess,Eric Schiller and Richard Peterson,1,The Official Rules of Chess,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no
-The Right Way to Play Chess,D. Brine Pritchard,1,The Right Way to Play Chess,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no
-Bobby Fischer Teaches Chess,Bobby Fischer,1,Bobby Fischer Teaches Chess,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no
-Official Poker Rules,World Poker Tour,1,Official Poker Rules,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no
-Billiards: The Official Rules and Records Book,Billiards Congress of America,1,Billiards: The Official Rules and Records Book,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no
-Fable Haven,Brandon Mull,2,Fable Haven,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Fable Haven: Rise of the Evening Star,Brandon Mull,1,Fable Haven,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Fable Haven: Grip of the Shadow Plague,Brandon Mull,1,Fable Haven,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Fable Haven: Secrets of the Dragon Sanctuary,Brandon Mull,1,Fable Haven,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Fable Haven: Keys to the Demon Prison,Brandon Mull,1,Fable Haven,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no
-Percy Jackson: The Lightning Thief,Rick Riordan,1,Percy Jackson,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no
-Percy Jackson: The Sea of Monsters,Rick Riordan,1,Percy Jackson,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no
-Percy Jackson: The Titan's Curse,Rick Riordan,1,Percy Jackson,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no
-Percy Jackson: The Battle of the Labyrinth,Rick Riordan,1,Percy Jackson,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no
-Percy Jackson: The Last Olympian,Rick Riordan,1,Percy Jackson,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no
-The Kane Chronicles: The Red Pyramid,Rick Riordan,1,Kane Chronicles,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no
-Magnus Chase: The Sword of Summer,Rick Riordan,1,Magnus Chase,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no
-American Gods,Neil Gaiman,1,American Gods,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no
-Gothic Dreams Steampunk,Henry Winchester,1,Gothic Dreams Steampunk,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,yes,no,no,no
-"The War of the Worlds,The Invisible Man,and The Time Machine",H.G. Wells,1,"The War of the Worlds,The Invisible Man,and The Time Machine",yes,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no
-On the Art of Love,William Shakespeare,1,On the Art of Love,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no
-The Divine Comedy,Dante,1,The Divine Comedy,yes,yes,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no
-Short Stories by Edgar Allen Poe,Edgar Allen Poe,1,Short Stories by Edgar Allen Poe,yes,no,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes
-The Thousand and One Nights,Edited by Charles W. Eliot,1,The Thousand and One Nights,yes,no,no,no,yes,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no
-Iliad,Homer,1,Iliad,yes,no,no,no,no,yes,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no
-"Wind,Sand,and Stars",Antoine de Saint-Exupery,1,"Wind,Sand,and Stars",yes,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no
-Dracula,Bram Stoker,1,Dracula,yes,no,no,no,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes
-The Strange Case of Dr. Jekyll and Mr. Hyde and Other Stories,Robert Lewis Stevenson,1,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Stories,yes,no,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,yes
-Pride and Prejudice,Jane Austen,2,Pride and Prejudice,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no
-To Kill a Mocking Bird,Harper Lee,1,To Kill a Mocking Bird,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no
-The Basics of China Painting,Bill Thompson,1,The Basics of China Painting,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no
-The Color Mixing Bible,Ian Sidaway,1,The Color Mixing Bible,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no
-The Ceramics Bible,Lewisa Taylor,1,The Ceramics Bible,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no
-Tattoo Flash Volume 1,J. Brett Prince,1,Tattoo Flash Volume 1,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no
-Anglo Celtic Patterns and Motifs,Treubhan,1,Anglo Celtic Patterns and Motifs,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no
-Classic Flash in 5 Bold Colors,"Jeromy ""Tilt"" McCulloch",1,Classic Flash in 5 Bold Colors,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no
-"Stewed,Screwed,and Tattoed",Madame Chinchilla,1,"Stewed,Screwed,and Tattoed",yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no
-Heavily Tattooed Men and Women,Schiffer,1,Heavily Tattooed Men and Women,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no
-Tattoo 1930s-1970s,Henk Schiffmacher,1,Tattoo 1930s-1970s,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no
-This Book is for People Who Love Tattoos,Verena Hutter,1,This Book is for People Who Love Tattoos,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no
-ABC Tattoo Flash Volume 2,Luke Wolf,1,ABC Tattoo Flash Volume 2,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no
-French-English Dictionary,French-English Dictionary,1,French-English Dictionary,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no
-Students Endlish-Hindi Dictionary,Students Endlish-Hindi Dictionary,1,Students Endlish-Hindi Dictionary,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no
-English-Telugu Conversation Guide,English-Telugu Conversation Guide,1,English-Telugu Conversation Guide,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no
-Beginner's Hindi Script,Beginner's Hindi Script,1,Beginner's Hindi Script,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no
-Harry Potter in Spanish,J.K. Rowling,1,Harry Potter,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no
-Compact Spanish and English Dictionary,Compact Spanish and English Dictionary,1,Compact Spanish and English Dictionary,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no
-French Dictionary,French Dictionary,1,French Dictionary,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no
-Complete Hindi,Complete Hindi,1,Complete Hindi,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no
-The Ultimate Spanish Review and Practice,The Ultimate Spanish Review and Practice,1,The Ultimate Spanish Review and Practice,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no
-Hindi Childrens Book,Hindi Childrens Book,1,Hindi Childrens Book,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no
-The Little Prince in French,The Little Prince in French,1,The Little Prince in French,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no
+title,authors,tags,quantity,series,languages
+"Holy Bible",Misc,"religion,philosophy,mythology",1,,english
+Atomic Habits,James Clear,"selfhelp,philosophy,psychology",1,,english
+Cheating Lessons,James M. Lang,"education,academic,philosophy,teaching",1,,english
+Make it Stick,"Henry L. Roediger III,Mark A. McDaniel,and Peter C. Brown","education,psychology,philosophy,learning",1,,english
+Beyond Good and Evil,Friedrich Nietzsche,"philosophy,ethics,europeanphilosophy",1,,english
+Meditations,Marcus Aurelius,"philosophy,stoicism,ancientphilosophy,ethics",1,,english
+Indian Myths,Jake Jakcson,"mythology,folklore,culture",1,,english
+Introduction to St. Thomas Aquinas,"Thomas Aquinas,edited by Anton C. Pegis","philosophy,religion,classic,ethics",1,,english
+The Philosophy of Kant,"Immanuel Kant,edited by Carl J. Friedrich","philosophy,ethics,religion,classic",1,,english
+The Graduate's Handbook,Dr. Clark Gaither,"career,guidance,education,psychology",1,,english
+Atlas Shrugged,Ayn Rand,"philosophy,politicalfiction,drama",1,,english
+The Fountainhead,Ayn Rand,"philosophy,drama,politicalfiction",1,,english
+Anthem,Ayn Rand,"dystopian,politicalfiction,philosophy",1,,english
+Mythology,Edith Hamilton,"mythology,folklore,reference",1,,english
+Don Quixote De La Mancha,Miguel de Cervantes,"classic,adventure,spanishliterature",2,,english
+Jules Verne: Seven Novels,Jules Verne,"scifi,classic,adventure",1,,english
+The Outsiders,S. E. Hinton,"ya,drama,classic",1,,english
+Tom Sawyer,Mark Twain,"classic,adventure,historicalfiction",1,,english
+The Time Machine,H.G. Wells,"scifi,classic,adventure",1,,english
+Frankenstein,Mary Shelley,"gothic,horror,classic",1,,english
+Macabre Stories,H.P. Lovecraft,"horror,shortstories,gothic",1,Lovecraft Collection,english
+The Randolph Carter Tales,H.P. Lovecraft,"horror,fantasy,gothic",1,Lovecraft Collection,english
+Stories of the Dreamlands,H.P. Lovecraft,"fantasy,horror,gothic",1,Lovecraft Collection,english
+At the Mountains of Madness,H.P. Lovecraft,"horror,scifi,gothic",1,Lovecraft Collection,english
+The Call of Cthulu,H.P. Lovecraft,"horror,gothic,supernatural",1,Lovecraft Collection,english
+The Dunwich Horror,H.P. Lovecraft,"horror,gothic,supernatural",1,Lovecraft Collection,english
+The Awakening,Kate Chopin,"classic,feministliterature,americanliterature",1,,english
+Bioshock Rapture,John Shirley,"scifi,fantasy,dystopian",1,,english
+Ender's Game,Orson Scott Card,"scifi,ya,fantasy",1,,english
+Dune,Frank Herbert,"scifi,fantasy,epic",1,Dune,english
+Dune Messiah,Frank Herbert,"scifi,fantasy,epic",1,Dune,english
+The Giver,Lois Lowry,"dystopian,ya,fantasy,scifi",1,,english
+Eragon,Christopher Paolini,"fantasy,ya,dragons",1,Eragon,english
+Eldest,Christopher Paolini,"fantasy,ya,dragons",1,Eragon,english
+Brisingr,Christopher Paolini,"fantasy,ya,dragons",1,Eragon,english
+Inheritance,Christopher Paolini,"fantasy,ya,dragons",1,Eragon,english
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,"fantasy,ya,childrens",3,Harry Potter,english
+Harry Potter and the Chamber of Secrets,J.K. Rowling,"fantasy,ya,childrens",2,Harry Potter,english
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,"fantasy,ya,childrens",2,Harry Potter,english
+Harry Potter and the Goblet of Fire,J.K. Rowling,"fantasy,ya,childrens",3,Harry Potter,english
+Harry Potter and the Order of the Pheonix,J.K. Rowling,"fantasy,ya,childrens",2,Harry Potter,english
+Harry Potter and Half-Blood Prince,J.K. Rowling,"fantasy,ya,childrens",1,Harry Potter,english
+Harry Potter and the Deathly Hallows,J.K. Rowling,"fantasy,ya,childrens",2,Harry Potter,english
+Harry Potter and History,Nancy R. Reagin,"history,fantasy,ya",1,Harry Potter,english
+The Beetle and the Bard,J.K. Rowling,"fantasy,shortstories,childrens",1,Harry Potter,english
+The Chronicles of Narnia: The Magician's Nephew,C.S. Lewis,"fantasy,childrens,classic",1,Narnia,english
+"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",C.S. Lewis,"fantasy,childrens,classic",1,Narnia,english
+The Chronicles of Narnia: The Horse and his Boy,C.S. Lewis,"fantasy,childrens,classic",1,Narnia,english
+The Chronicles of Narnia: Prince Caspian,C.S. Lewis,"fantasy,childrens,classic",1,Narnia,english
+The Chronicles of Narnia: The Voyage of the Dawn Treader,C.S. Lewis,"fantasy,childrens,classic",1,Narnia,english
+The Chronicles of Narnia: The Silver Chair,C.S. Lewis,"fantasy,childrens,classic",1,Narnia,english
+The Chronicles of Narnia: The Last Battle,C.S. Lewis,"fantasy,childrens,classic",1,Narnia,english
+Holidays on Ice,David Sedaris,"humor,essays,satire",1,,english
+Skeleton Crew,Stephen King,"horror,shortstories,suspense",1,,english
+The Mystery of the Pale King,Sam Flynn,"mystery,suspense",1,,english
+Revival,Stephen King,"horror,supernatural,suspense",1,,english
+The Chronicles of Vladimir Todd: Ninth Grade Slays,Heather Brewer,"ya,horror,fantasy",1,,english
+Lights Out,Navessa Allen,"horror,thriller,suspense,supernatural",1,,english
+Nightmares and Dreamscapes,Stephen King,"horror,shortstories,suspense",1,,english
+Berserk Volume 1 Deluxe Edition,Kentaro Miura,"illustrated,fantasy,action",1,,english
+Batman Earth One Volume Two,"Jones,Frank,Sibal,Anderson","illustrated,superheroes,action",1,,english
+Yes Please,Amy Poehler,"memoir,humor,autobiography",1,,english
+She's Come Undone,Wally Lamb,"drama,familydrama",1,,english
+Scarecrow Returns,Matthew Reilly,"thriller,suspense,adventure",1,,english
+Dark Celebration,Christine Feehan,"romance,fantasy,paranormalromance",1,,english
+Blue Dahlia,Nora Roberts,"romance,mystery,suspense",1,,english
+The Strange Fascinations of Noah Hypnotik,David Arnold,"ya,adventure,mentalhealth",1,,english
+Fargo Rock City,Chuck Klosterman,"music,essays,adventure",1,,english
+Dating Game,Danielle Steel,"romance,contemporary,drama",1,,english
+The Official Rules of Chess,Eric Schiller and Richard Peterson,"games,hobbies,strategy",1,,english
+The Right Way to Play Chess,D. Brine Pritchard,"games,hobbies,strategy",1,,english
+Bobby Fischer Teaches Chess,Bobby Fischer,"games,hobbies,instruction",1,,english
+Official Poker Rules,World Poker Tour,"games,hobbies,reference",1,,english
+Billiards: The Official Rules and Records Book,Billiards Congress of America,"games,hobbies,reference",1,,english
+Fable Haven,Brandon Mull,"fantasy,childrens,adventure",2,Fable Haven,english
+Fable Haven: Rise of the Evening Star,Brandon Mull,"fantasy,childrens,adventure",1,Fable Haven,english
+Fable Haven: Grip of the Shadow Plague,Brandon Mull,"fantasy,childrens,adventure",1,Fable Haven,english
+Fable Haven: Secrets of the Dragon Sanctuary,Brandon Mull,"fantasy,childrens,adventure",1,Fable Haven,english
+Fable Haven: Keys to the Demon Prison,Brandon Mull,"fantasy,childrens,adventure",1,Fable Haven,english
+Percy Jackson: The Lightning Thief,Rick Riordan,"ya,fantasy,mythology",1,Percy Jackson,english
+Percy Jackson: The Sea of Monsters,Rick Riordan,"ya,fantasy,mythology",1,Percy Jackson,english
+Percy Jackson: The Titan's Curse,Rick Riordan,"ya,fantasy,mythology",1,Percy Jackson,english
+Percy Jackson: The Battle of the Labyrinth,Rick Riordan,"ya,fantasy,mythology",1,Percy Jackson,english
+Percy Jackson: The Last Olympian,Rick Riordan,"ya,fantasy,mythology",1,Percy Jackson,english
+The Kane Chronicles: The Red Pyramid,Rick Riordan,"ya,fantasy,egyptianmythology",1,Kane Chronicles,english
+Magnus Chase: The Sword of Summer,Rick Riordan,"ya,fantasy,norsemythology",1,Magnus Chase,english
+American Gods,Neil Gaiman,"fantasy,mythology,adventure",1,,english
+Gothic Dreams Steampunk,Henry Winchester,"steampunk,gothic,fantasy",1,,english
+"The War of the Worlds,The Invisible Man,and The Time Machine",H.G. Wells,"scifi,classic,adventure",1,,english
+On the Art of Love,William Shakespeare,"poetry,classic,romance",1,,english
+The Divine Comedy,Dante,"poetry,classic,epic",1,,english
+Short Stories by Edgar Allen Poe,Edgar Allen Poe,"shortstories,horror,classic",1,,english
+The Thousand and One Nights,Edited by Charles W. Eliot,"folklore,mythology,classic",1,,english
+Iliad,Homer,"poetry,classic,epic",1,,english
+"Wind,Sand,and Stars",Antoine de Saint-Exupery,"memoir,adventure,aviation",1,,english
+Dracula,Bram Stoker,"gothic,classic,fantasy",1,,english
+The Strange Case of Dr. Jekyll and Mr. Hyde and Other Stories,Robert Lewis Stevenson,"gothic,classic,thriller",1,,english
+Pride and Prejudice,Jane Austen,"classic,romance,feministliterature",2,,english
+To Kill a Mocking Bird,Harper Lee,"classic,drama,adventure",1,,english
+The Basics of China Painting,Bill Thompson,"art,craft,painting",1,,english
+The Color Mixing Bible,Ian Sidaway,"art,reference,painting",1,,english
+The Ceramics Bible,Lewisa Taylor,"art,craft,ceramics",1,,english
+Tattoo Flash Volume 1,J. Brett Prince,"art,tattoo,design",1,,english
+Anglo Celtic Patterns and Motifs,Treubhan,"art,reference,tattoo",1,,english
+Classic Flash in 5 Bold Colors,"Jeromy ""Tilt"" McCulloch","art,tattoo,reference",1,,english
+"Stewed,Screwed,and Tattoed",Madame Chinchilla,"art,tattoo,culture",1,,english
+Heavily Tattooed Men and Women,Schiffer,"photography,tattoo,culture",1,,english
+Tattoo 1930s-1970s,Henk Schiffmacher,"history,tattoo,culture",1,,english
+This Book is for People Who Love Tattoos,Verena Hutter,"culture,tattoo,art",1,,english
+ABC Tattoo Flash Volume 2,Luke Wolf,"art,tattoo,reference",1,,english
+French-English Dictionary,French-English Dictionary,"language,reference,dictionaries",1,,french
+Students Endlish-Hindi Dictionary,Students Endlish-Hindi Dictionary,"language,reference,dictionaries",1,,hindi
+English-Telugu Conversation Guide,English-Telugu Conversation Guide,"language,reference,linguistics",1,,telugu
+Beginner's Hindi Script,Beginner's Hindi Script,"language,instruction,linguistics",1,,hindi
+Harry Potter in Spanish,J.K. Rowling,"fantasy,ya,childrens,language",1,,spanish
+Compact Spanish and English Dictionary,Compact Spanish and English Dictionary,"language,reference,dictionaries",1,,spanish
+French Dictionary,French Dictionary,"language,reference,dictionaries",1,,french
+Complete Hindi,Complete Hindi,"language,instruction,linguistics",1,,hindi
+The Ultimate Spanish Review and Practice,The Ultimate Spanish Review and Practice,"language,study,linguistics",1,,spanish
+Hindi Childrens Book,Hindi Childrens Book,"childrens,language,instruction",1,,hindi
+The Little Prince in French,The Little Prince in French,"childrens,language,classic",1,,french
