@@ -12,8 +12,10 @@ import umap.umap_ as umap
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.cluster import KMeans
+from sklearn.cluster import AgglomerativeClustering
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.feature_selection import VarianceThreshold
+import scipy.cluster.hierarchy as sch
 
 script_dir = os.path.dirname(os.path.realpath(__file__))
 parent_dir = os.path.dirname(script_dir)
@@ -59,6 +61,9 @@ if 'publisher' in data.columns:
 if 'uuid' in data.columns:
     data = data.drop(columns=['uuid'])
 
+# drop any rows where the index (book title) is 'books_calibre'
+data = data[data.index != 'books_calibre']
+
 # one hot encode genres
 data['tags_list'] = data['tags'].str.split(',').apply(lambda x: [tag.strip() for tag in x])
 mlb = MultiLabelBinarizer()
@@ -77,24 +82,54 @@ y = data.index
 print(X.head())
 
 #-------------------Feature Selection---------------------------------------
-selector = VarianceThreshold(threshold=0.2)
-X_selected = selector.fit_transform(X)
-selected_features = X.columns[selector.get_support()]
-X = pd.DataFrame(X_selected, columns=selected_features, index=data.index)
+min_books = 2
+max_books_percent= 0.5
+num_books = len(data)
+max_books = num_books * max_books_percent
+
+feature_counts = data.apply(lambda x: x.sum(), axis=0)
+features_to_keep = feature_counts[(feature_counts >= min_books) & (feature_counts <= max_books)].index
+X = data[features_to_keep]
+#-------------------Feature Scaling-----------------------------------------
+author_cols = [col for col in X.columns if col.startswith('authors_')]
+languages_cols = [col for col in X.columns if col.startswith('languages_')]
+X[author_cols] *= 3.0
+X[languages_cols] *= 2
+X['Language'] *= 2
+X['Classics'] *= 2
+X['Romance'] *= 2
+X['Science Fiction'] *= 2
+X['Young Adult Fiction'] *= 2
+print(X.head())
 #-------------------Clustering----------------------------------------------
 
+clustering = AgglomerativeClustering(
+    metric='cosine',
+    linkage='average',
+    distance_threshold=0.8,
+    n_clusters=None          
+)
 
-num_shelves = 12
-kmeans = KMeans(n_clusters=num_shelves, random_state=42)
+labels = clustering.fit_predict(X)
+num_shelves = len(set(labels))
 
-kmeans.fit(X)
+plt.figure(figsize=(15, 15))
+sch.dendrogram(
+    sch.linkage(X, method='average', metric='cosine'),
+    labels=data.index,
+    leaf_rotation=90,  
+    leaf_font_size=8
+)
+plt.title('Dendrogram of Agglomerative Clustering')
+plt.xlabel('Books')
+plt.ylabel('Distance')
+plt.savefig(os.path.join(output_dir, "dendro.png"))
 
-data['cluster'] = kmeans.labels_
+data['cluster'] = labels
 cluster_labels = data['cluster']
+X['cluster'] = labels
 
-print(data[['cluster']].head())
-
-output_data = data.copy()
+output_data = X.copy()
 output_file_all_features = os.path.join(output_dir, "books_with_features_and_clusters.csv")
 output_data.to_csv(output_file_all_features, index=False)
 

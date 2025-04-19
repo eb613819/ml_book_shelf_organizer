@@ -67,3 +67,45 @@ These changes should allow shelf groupings that are more natural, interpretable,
 | Lets you preserve structure (series, authors)?   | ✅ Often groups them naturally |
 | Avoids random init/seeds?                        | ✅ Deterministic process   |
 | Lets you choose how many shelves later?          | ✅ Cut the dendrogram wherever you want |
+
+# ⚠️ Feature Imbalance in Clustering
+
+## 🔹 Problem with Rare Features
+- Features that apply to only **1 book** are too specific.
+- They don't help group similar books — they just isolate one.
+- → Causes **noise** and **sparsity** in the feature matrix.
+
+## 🔹 Problem with Overused Features
+- Features present in **most books** don’t differentiate anything.
+- They dominate the feature space but provide **low discriminative power**.
+
+## ✅ Fixes
+- **Remove rare features** (e.g., tags that appear in ≤1 book).
+- **Remove overly common features** (e.g., tags that appear in ≥80–90% of books).
+- Optionally apply **TF-IDF weighting** to reduce influence of common tags.
+- Consider **grouping related tags** (e.g., all non-English books under a single tag).
+
+## 📘 What is TF-IDF Weighting?
+
+### 🔹 TF-IDF = Term Frequency–Inverse Document Frequency
+
+It scores how important a feature (like a tag or word) is to a **specific book** in your collection.
+
+### 🔢 Formula
+- **TF** (Term Frequency): How often a tag appears in a book.
+- **IDF** (Inverse Document Frequency): How rare the tag is across all books.
+
+\[
+\text{TF-IDF}(t, b) = \text{TF}(t, b) \times \log\left(\frac{N}{n_t}\right)
+\]
+- `t` = tag, `b` = book  
+- `N` = total number of books  
+- `n_t` = number of books containing tag `t`
+
+### ✅ Why Use It?
+- Downweights **very common** tags.
+- Upweights **unique but relevant** tags.
+- Makes the feature matrix **more balanced** and **informative** for clustering or classification.
+
+### 🛠️ In Practice
+Use `TfidfVectorizer` from `sklearn.feature_extraction.text` if working with text or tags.
