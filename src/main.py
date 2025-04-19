@@ -76,10 +76,7 @@ data = data.drop(columns=['tags', 'tags_list'])
 # one hot encode authors and languages
 data = pd.get_dummies(data, columns=['authors', 'languages'], dummy_na=False)
 
-X = data
-y = data.index
 
-print(X.head())
 
 #-------------------Feature Selection---------------------------------------
 min_books = 2
@@ -89,24 +86,28 @@ max_books = num_books * max_books_percent
 
 feature_counts = data.apply(lambda x: x.sum(), axis=0)
 features_to_keep = feature_counts[(feature_counts >= min_books) & (feature_counts <= max_books)].index
-X = data[features_to_keep]
+data = data[features_to_keep]
 #-------------------Feature Scaling-----------------------------------------
-author_cols = [col for col in X.columns if col.startswith('authors_')]
-languages_cols = [col for col in X.columns if col.startswith('languages_')]
-X[author_cols] *= 3.0
-X[languages_cols] *= 2
-X['Language'] *= 2
-X['Classics'] *= 2
-X['Romance'] *= 2
-X['Science Fiction'] *= 2
-X['Young Adult Fiction'] *= 2
-print(X.head())
+author_cols = [col for col in data.columns if col.startswith('authors_')]
+languages_cols = [col for col in data.columns if col.startswith('languages_')]
+data[author_cols] *= 3.0
+data[languages_cols] *= 2
+data['Language'] *= 2
+data['Classics'] *= 2
+data['Romance'] *= 2
+data['Science Fiction'] *= 2
+data['Young Adult Fiction'] *= 2
+data['Philosophy'] *= 2
+print(data.head())
 #-------------------Clustering----------------------------------------------
+
+X = data
+y = data.index
 
 clustering = AgglomerativeClustering(
     metric='cosine',
     linkage='average',
-    distance_threshold=0.8,
+    distance_threshold=0.72,
     n_clusters=None          
 )
 
